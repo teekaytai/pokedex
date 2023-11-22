@@ -1,3 +1,4 @@
 data/
-models/
+models/*
+!models/model_final.tf
 tuner/
